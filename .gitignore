@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+store_descriptions.md
+icons/icon.svg
+.claude/
